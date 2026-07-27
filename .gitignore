@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Intermediate benchmark model from notebook 06 (106 MB, over GitHub's limit).
+# Nothing loads it — notebook 07 rebuilds from model_data.csv into final_model.joblib.
+data/processed/model.joblib
