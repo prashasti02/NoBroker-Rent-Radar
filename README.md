@@ -1,5 +1,5 @@
 # 🏙️ Mumbai Rent Radar — a fair-rent model for a noisy market
-**Team The Outliers** · Akshara · Prashasthi · Sudarshan
+**Team The Outliers** · Akshra · Prashasthi · Sudarshan
 *IIT Mandi — AI-Powered Coding & Analytics Programme*
 
 ---
