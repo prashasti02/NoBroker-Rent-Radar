@@ -63,7 +63,5 @@ amenity data adds little · 84 unknown-locality listings priced on city-level in
 ## The AI appendix (short version)
 We used AI as a **fast drafting partner** — messy-string parsers, chart scaffolding, refactors —
 but **not as a certifier**. When an early model reported R² > 0.9, that was the tell: we hunted
-down the leakage (locality encoded on all data + a rent-derived feature) and fixed it. Full
-prompt log and judgement calls are in notebook 10.
+down the leakage (locality encoded on all data + a rent-derived feature) and fixed it. 
 
-*The 3-minute walkthrough video accompanies this repository.*
