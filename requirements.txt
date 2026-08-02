@@ -1,0 +1,25 @@
+# Mumbai Rent Radar — analysis environment
+# Python 3.12.  Install with:  pip install -r requirements.txt
+
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+statsmodels
+matplotlib
+seaborn
+missingno
+squarify
+shap
+openpyxl
+joblib
+
+# notebook execution
+jupyter
+jupytext
+ipykernel
+
+# # presentation build
+# python-pptx
+# Pillow
